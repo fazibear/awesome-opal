@@ -44,7 +44,7 @@
 - [Rack Opal](https://github.com/t0xa/rack-opal) - Rack middleware to automatically compile ruby scripts to javascripts
 - [Reactive Record](https://github.com/catprintlabs/reactive-record) - Ruby Opal + React + ActiveRecord = GOODNESS!
 
-### JS Wrappers (Bindings) -
+### JS Wrappers (Bindings)
 - [Opal Dagred3](https://github.com/lonelyplanet/opal-dagred3) - An opalized (ruby-fied) wrapper for the dagreD3 directed, acyclic graphing library
 - [Opal Firebase](https://github.com/gabrielrios/opal-firebase) - Firebase Wrapper providing a nice ruby syntax
 - [Opal Highcharts](https://github.com/balmoral/opal-highcharts) - Ruby wrapper for Highcharts and Highstock javascript libraries
