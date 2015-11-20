@@ -3,6 +3,7 @@
 ### Frameworks
 - [Clearwater](https://github.com/clearwater-rb/clearwater) - Component-based Ruby front-end framework
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
+- [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
 - [Opal Praha](https://github.com/unplugandplay/opal-praha) - An opal-vienna rewrite with Convention over Configuration in mind
 - [Vienna](https://github.com/opal/vienna) - Client-side MVC framework for Opa
 - [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your Ruby runs on both server and client
@@ -12,7 +13,6 @@
 - [Electron Opal](https://github.com/jannishuebl/electron_opal) - Lightweigt Ruby wrapper around the geat electron desktop application engine
 - [Grand Central](https://github.com/clearwater-rb/grand_central) - State-management and action-dispatching for Opal apps
 - [Jekyll Opal](https://github.com/jekyll/jekyll-opal) - Let Jekyll convert your Ruby into JavaScript using Opal
-- [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
 - [Opal ActionPack](https://github.com/boberetezeke/opal-actionpack) - A small port of the awesome action pack to Opal JS
 - [Opal ActiveRecord](https://github.com/boberetezeke/opal-activerecord) - An basic implementation of rails active record for use with opaljs
 - [Opal ActiveSupport](https://github.com/opal/opal-activesupport) - The port of the glorious ActiveSupport for Opal
