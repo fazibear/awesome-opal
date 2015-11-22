@@ -10,7 +10,7 @@
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
 - [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
 - [Opal Praha](https://github.com/unplugandplay/opal-praha) - An opal-vienna rewrite with Convention over Configuration in mind
-- [Vienna](https://github.com/opal/vienna) - Client-side MVC framework for Opa
+- [Vienna](https://github.com/opal/vienna) - Client-side MVC framework for Opal
 - [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your Ruby runs on both server and client
 
 ### Gems
