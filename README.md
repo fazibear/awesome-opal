@@ -6,8 +6,8 @@
 - [Opal Github Organization](https://github.com/opal)
 - [Opal Gitter](https://gitter.im/opal/opal)
 - [Opal Stackoverflow](http://stackoverflow.com/questions/ask?tags=opalrb)
-- [Opal Mailinglist](https://groups.google.com/forum/#!forum/opalrb)
 - [Opalist](http://www.opalist.co) The only Opal mailing list, issues on the web [here](http://opalist.curated.co/issues)
+- [Google Opal Group](https://groups.google.com/forum/#!forum/opalrb)
 
 ### Blogs
 - [Funkworks (tagged Opal)](http://funkworks.blogspot.com/search/label/opal) Software blog, articles tagged opal
