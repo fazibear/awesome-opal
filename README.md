@@ -12,7 +12,7 @@
 - [Opalist](http://www.opalist.co) Blog links on the bottom
 
 ### Video Presentations
-- [Opal A New Hope by Forrest Chang, RubyConf 2013](https://vimeo.com/82573680) - Broad overview of Opal and reasons to adopt, with strong Star Wars theme, rerecorded to include full sound at beginning, video picks up on [youtube](http://www.youtube.com/watch?feature=player_detailpage&v=GH9FAfKG-qY#t=170)
+- [Opal A New Hope by Forrest Chang, RubyConf 2013](https://vimeo.com/82573680) - Broad overview of Opal and reasons to adopt, with strong Star Wars theme, rerecorded to include full sound at beginning, video picks up on [Youtube](http://www.youtube.com/watch?feature=player_detailpage&v=GH9FAfKG-qY#t=170).
   If switching video sources is too much of a pain, whole thing w/censored out sound [here](https://youtu.be/GH9FAfKG-qY)
 - [Opal: The Journey From JavaScript to Ruby by Bozhidar Batsov eurucamp 2015](https://www.youtube.com/watch?v=6Co0qmCvgq0) -
 
@@ -102,7 +102,7 @@
 - [Opal Pixi Examples](https://github.com/ktec/opal-pixi-examples) - Examples using the opal-pixi gem
 - [Opal Play](https://github.com/HeroicEric/opal_play) - Playing around with emberjs and opaljs to run ruby code in the browser
 - [Opal Playground](https://github.com/opal/opal-playground) - Opal Playground (Original)
-- [Opal Playground](https://github.com/fkchang/opal-playground) - Opal Playground (Improved, layout, opal-irb integration, opal-browser, lissio, reactive-ruby library support)
+- [Opal Playground](https://github.com/fkchang/opal-playground) - Opal Playground (Improved, layout, opal-irb integration, opal-browser, lissio, reactive-ruby library support). Try it out [here](http://fkchang.github.io/opal-playground/)
 - [Opal Playground](https://github.com/vogelbek/opal_playground) - Experimenting with opal to write CSS, JS, and the DOM with Ruby
 - [Opal Pong](https://github.com/ylluminarious/opal_pong) - Pong in Opal
 - [Opal Raw](https://github.com/makevoid/opal_raw) - A very fast opal setup - no sprockets! - includes opal browser - uses guard to automatically compile your .js.rb files as you save them
