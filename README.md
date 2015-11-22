@@ -1,5 +1,10 @@
 # Awesome Opal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+### Opal
+- [Opal Website](http://opalrb.org/)
+- [Opal Github Repository](https://github.com/opal/opal)
+- [Opal Github Organization](https://github.com/opal)
+
 ### Frameworks
 - [Clearwater](https://github.com/clearwater-rb/clearwater) - Component-based Ruby front-end framework
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
@@ -111,7 +116,6 @@
 - [Opal Loader](https://github.com/zetachang/opalrb-loader) - Opal Ruby module loader for webpack
 - [Opal Meteor](https://github.com/marcandre/meteor-opal) - Ruby runtime and core library for Meteor
 - [Opal npm Wrapper](https://github.com/anthonny/opal-npm-wrapper) - Npm wrapper for Opal
-- [Opal](https://github.com/opal/opal) - Ruby to JavaScript compiler
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
 ### Deprecated
