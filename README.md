@@ -4,6 +4,10 @@
 - [Opal Website](http://opalrb.org/)
 - [Opal Github Repository](https://github.com/opal/opal)
 - [Opal Github Organization](https://github.com/opal)
+- [Opal Gitter](https://gitter.im/opal/opal)
+- [Opal Stackoverflow](http://stackoverflow.com/questions/ask?tags=opalrb)
+- [Opal Mailinglist](https://groups.google.com/forum/#!forum/opalrb)
+- [Opalist](http://www.opalist.co) The only Opal mailing list, issues on the web [here](http://opalist.curated.co/issues)
 
 ### Blogs
 - [Funkworks (tagged Opal)](http://funkworks.blogspot.com/search/label/opal) Software blog, articles tagged opal
@@ -15,9 +19,6 @@
 - [Opal A New Hope by Forrest Chang, RubyConf 2013](https://vimeo.com/82573680) - Broad overview of Opal and reasons to adopt, with strong Star Wars theme, rerecorded to include full sound at beginning, video picks up on [Youtube](http://www.youtube.com/watch?feature=player_detailpage&v=GH9FAfKG-qY#t=170).
   If switching video sources is too much of a pain, whole thing w/censored out sound [here](https://youtu.be/GH9FAfKG-qY)
 - [Opal: The Journey From JavaScript to Ruby by Bozhidar Batsov eurucamp 2015](https://www.youtube.com/watch?v=6Co0qmCvgq0) -
-
-### Newsletter
-- [Opalist](http://www.opalist.co) The only Opal mailing list, issues on the web [here](http://opalist.curated.co/issues)
 
 ### Frameworks
 - [Clearwater](https://github.com/clearwater-rb/clearwater) - Component-based Ruby front-end framework
@@ -95,14 +96,14 @@
 - [Opal Conway](https://github.com/stevenandrewcarter/opal_conway) - Conway Game of Life, implemented with Opal and Ruby
 - [Opal Examples](https://github.com/Alliants/opal-examples) - Experiments with html5 and the opal ruby to javascript compiler
 - [Opal HelloWorld](https://github.com/JikkuJose/opal-hello-world) - A simple project to test OpalRb
-- [Opal IRB](https://github.com/fkchang/opal-irb) - IRB (interactive ruby) for Opal [Standalone](http://fkchang.github.io/opal-irb/index-jq.html) [Embedded](http://fkchang.github.io/opal-irb/index-embeddable.html)
+- [Opal IRB](https://github.com/fkchang/opal-irb) - IRB (interactive ruby) for Opal
 - [Opal Learning WebGL](https://github.com/aost/opal-learningwebgl) - Opal (Ruby) port of the Learning WebGL (NeHe) demos
 - [Opal On Node Example](https://github.com/elia/opal-on-node-examples) - My first Socket.IO chat
 - [Opal Phaser Examples](https://github.com/orbitalimpact/opal-phaser-examples) - Phaser usage examples converted to opal-phaser in order to see how to make Phaser based games the Ruby way.
 - [Opal Pixi Examples](https://github.com/ktec/opal-pixi-examples) - Examples using the opal-pixi gem
 - [Opal Play](https://github.com/HeroicEric/opal_play) - Playing around with emberjs and opaljs to run ruby code in the browser
+- [Opal Playground](https://github.com/fkchang/opal-playground) - Opal Playground (Improved, layout, opal-irb integration, opal-browser, lissio, reactive-ruby library support).
 - [Opal Playground](https://github.com/opal/opal-playground) - Opal Playground (Original)
-- [Opal Playground](https://github.com/fkchang/opal-playground) - Opal Playground (Improved, layout, opal-irb integration, opal-browser, lissio, reactive-ruby library support). Try it out [here](http://fkchang.github.io/opal-playground/)
 - [Opal Playground](https://github.com/vogelbek/opal_playground) - Experimenting with opal to write CSS, JS, and the DOM with Ruby
 - [Opal Pong](https://github.com/ylluminarious/opal_pong) - Pong in Opal
 - [Opal Raw](https://github.com/makevoid/opal_raw) - A very fast opal setup - no sprockets! - includes opal browser - uses guard to automatically compile your .js.rb files as you save them
@@ -134,11 +135,17 @@
 - [Opal npm Wrapper](https://github.com/anthonny/opal-npm-wrapper) - Npm wrapper for Opal
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
+### Live Applications
+- [Inesita Playground](http://inesita-playground.netlify.com)
+- [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
+- [Opal IRB Embedded](http://fkchang.github.io/opal-irb/index-embeddable.html)
+- [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
+- [Opal Playground](http://fkchang.github.io/opal-playground/)
+
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
 - [Opal Spec](https://github.com/opal/opal-spec)
 - [Opal Sprockets](https://github.com/opal/opal-sprockets)
-
 
 ## Contribution
 
