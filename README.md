@@ -141,6 +141,7 @@
 - [Opal IRB Embedded](http://fkchang.github.io/opal-irb/index-embeddable.html)
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
+- [Pong in Opal](https://opalpong.herokuapp.com)
 
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
