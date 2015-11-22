@@ -136,8 +136,10 @@
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
 ### Live Applications
+- [Clearwater Blog](http://clearwater-blog.herokuapp.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
 - [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
+- [Opal Canvas Demo](http://opal-canvas-demo.herokuapp.com)
 - [Opal IRB Embedded](http://fkchang.github.io/opal-irb/index-embeddable.html)
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
