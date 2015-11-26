@@ -144,6 +144,7 @@
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
+- [Zupfnoter](https://github.com/bwl21/zupfnoter) - A feature rich abc based music editor written in Opal Ruby; uses dropbox, abc2svg, jspdf and much more
 
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
