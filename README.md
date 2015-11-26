@@ -145,6 +145,7 @@
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
+- [Zupfnoter](https://zupfnoter.weichel21.de)
 
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
