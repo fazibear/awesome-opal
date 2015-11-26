@@ -122,6 +122,7 @@
 - [Rails Opal React Example](https://github.com/alterego-labs/rails-opal-react-example) - JS is hell of shit! Opal is rising!
 - [RethinkDB Ruby Opal](https://github.com/segphault/rethinkdb-ruby-opal) - A RethinkDB demo application built with Ruby and Opal
 - [Roda Opal Example](https://github.com/jeremyevans/roda-opal-example) - Example of Using Roda with Opal
+- [Zupfnoter](https://github.com/bwl21/zupfnoter) - A feature rich abc based music editor written in Opal Ruby; uses dropbox, abc2svg, jspdf and much more
 
 ### Other
 - [Dyndoc Opal](https://github.com/rcqls/dyndoc-opal) - dyndoc js via opal
@@ -144,7 +145,6 @@
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
-- [Zupfnoter](https://github.com/bwl21/zupfnoter) - A feature rich abc based music editor written in Opal Ruby; uses dropbox, abc2svg, jspdf and much more
 
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
