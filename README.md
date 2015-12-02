@@ -36,6 +36,7 @@
 - [Opal ActionPack](https://github.com/boberetezeke/opal-actionpack) - A small port of the awesome action pack to Opal JS
 - [Opal ActiveRecord](https://github.com/boberetezeke/opal-activerecord) - An basic implementation of rails active record for use with opaljs
 - [Opal ActiveSupport](https://github.com/opal/opal-activesupport) - The port of the glorious ActiveSupport for Opal
+- [Opal Airbrake](https://github.com/fazibear/opal-airbrake) - Opal wrapper for airbrake-js javascript library.
 - [Opal Anync](https://github.com/Ravenstine/opal-async) - Non-blocking tasks and enumerators for Opal.
 - [Opal Browser](https://github.com/opal/opal-browser) - Browser support for Opal.
 - [Opal Builder](https://github.com/wied03/opal-builder) - An attempt at making the builder XML gem work with Opal
