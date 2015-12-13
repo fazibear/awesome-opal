@@ -87,8 +87,10 @@
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
 
 ### Examples
+- [AsciifyMe](https://github.com/inesita-rb/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
+- [Inesita DBMonster](https://github.com/inesita-rb/dbmonster) - DBMonster test app written in Inesita
 - [Inesita Playground](https://github.com/inesita-rb/playground) - Playground for Inesita
 - [Inesita TodoMVC](https://github.com/inesita-rb/todomvc) - Inesita TodoMVC
 - [Opal Blog](https://github.com/jgaskins/opal_blog) - An example of using the Clearwater framework with Opal/Rails
@@ -138,7 +140,9 @@
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
 ### Live Applications
+- [Asciify Me](https://inesita-asciify-me.netlify.com)
 - [Clearwater Blog](http://clearwater-blog.herokuapp.com)
+- [Inesita DBMonster](http://inesita-dbmonster.netlify.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
 - [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
 - [Opal Canvas Demo](http://opal-canvas-demo.herokuapp.com)
