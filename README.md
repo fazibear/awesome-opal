@@ -82,7 +82,7 @@
 - [Opal Pusher](https://github.com/jgaskins/opal-pusher) - Opal bindings for the Pusher JS API
 - [Opal Raphael](https://github.com/yhara/opal-raphael) - Opal binding for Raphael.js
 - [Opal VirtualDOM](https://github.com/fazibear/opal-virtual-dom) - virtual-dom wrapper for opal
-- [React.rb](https://github.com/zetachang/react.rb) - Opal Ruby wrapper of React.js library.
+- [Reactrb](https://github.com/reactrb/reactrb) - Opal Ruby wrapper of React.js library.
 - [Stripe Opal](https://github.com/DataMelon/stripe-opal) - Stripe.JS wrapper for Opal
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
 
