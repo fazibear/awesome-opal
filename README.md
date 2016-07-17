@@ -59,6 +59,7 @@
 - [Opal Router](https://github.com/adambeynon/opal-router) - Router implementation for Opal (very alpha)
 - [Opal Scriptish](https://github.com/meh/opal-scriptish) - Scriptish support for Ruby scripting, with Opal.
 - [Opal Shimmer](https://github.com/jaredcwhite/opal-shimmer) - Shimmer is an application state and configuration management library built with Opal
+- [Opal Sid](https://github.com/fazibear/opal-sid) - Hermit jsSID wrapper for opal
 - [Opal Slim](https://github.com/jgaskins/opal-slim) - Sprockets integration to compile Slim templates for Opal apps
 - [Opal Starter Kit](https://github.com/fkchang/opal-starter-kit) - Create Opal projects easily
 - [Opal UI](https://github.com/ppibburr/opal-ui) - A GUI Toolkit in your Browser
@@ -90,6 +91,7 @@
 - [AsciifyMe](https://github.com/inesita-rb/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
+- [Inesid](https://github.com/fazibear/inesid) - SID Web player with retor interface
 - [Inesita DBMonster](https://github.com/inesita-rb/dbmonster) - DBMonster test app written in Inesita
 - [Inesita Playground](https://github.com/inesita-rb/playground) - Playground for Inesita
 - [Inesita TodoMVC](https://github.com/inesita-rb/todomvc) - Inesita TodoMVC
@@ -125,6 +127,8 @@
 - [Rails Opal React Example](https://github.com/alterego-labs/rails-opal-react-example) - JS is hell of shit! Opal is rising!
 - [RethinkDB Ruby Opal](https://github.com/segphault/rethinkdb-ruby-opal) - A RethinkDB demo application built with Ruby and Opal
 - [Roda Opal Example](https://github.com/jeremyevans/roda-opal-example) - Example of Using Roda with Opal
+- [Sprint Poker](https://github.com/elpassion/sprint-poker-inesita) - Online estimation tool for Agile teams
+- [WebAdudio Playground](https://github.com/fazibear/web-audio-playground) - Website to play with web-audio
 - [Zupfnoter](https://github.com/bwl21/zupfnoter) - A feature rich abc based music editor written in Opal Ruby; uses dropbox, abc2svg, jspdf and much more
 
 ### Other
@@ -142,6 +146,7 @@
 ### Live Applications
 - [Asciify Me](https://inesita-asciify-me.netlify.com)
 - [Clearwater Blog](http://clearwater-blog.herokuapp.com)
+- [Inesid](http://inesid.surge.sh)
 - [Inesita DBMonster](http://inesita-dbmonster.netlify.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
 - [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
@@ -150,6 +155,8 @@
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
+- [Sprint Poker](http://sprintpoker-inesita.surge.sh)
+- [WebAudio Playgrond](http://inesita-web-audio.netlify.com)
 - [Zupfnoter](https://zupfnoter.weichel21.de)
 
 ### Deprecated
