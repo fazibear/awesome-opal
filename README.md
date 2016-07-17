@@ -36,7 +36,6 @@
 - [Opal ActionPack](https://github.com/boberetezeke/opal-actionpack) - A small port of the awesome action pack to Opal JS
 - [Opal ActiveRecord](https://github.com/boberetezeke/opal-activerecord) - An basic implementation of rails active record for use with opaljs
 - [Opal ActiveSupport](https://github.com/opal/opal-activesupport) - The port of the glorious ActiveSupport for Opal
-- [Opal Airbrake](https://github.com/fazibear/opal-airbrake) - Opal wrapper for airbrake-js javascript library.
 - [Opal Async](https://github.com/Ravenstine/opal-async) - Non-blocking tasks and enumerators for Opal.
 - [Opal Browser](https://github.com/opal/opal-browser) - Browser support for Opal.
 - [Opal Builder](https://github.com/wied03/opal-builder) - An attempt at making the builder XML gem work with Opal
@@ -59,16 +58,15 @@
 - [Opal Router](https://github.com/adambeynon/opal-router) - Router implementation for Opal (very alpha)
 - [Opal Scriptish](https://github.com/meh/opal-scriptish) - Scriptish support for Ruby scripting, with Opal.
 - [Opal Shimmer](https://github.com/jaredcwhite/opal-shimmer) - Shimmer is an application state and configuration management library built with Opal
-- [Opal Sid](https://github.com/fazibear/opal-sid) - Hermit jsSID wrapper for opal
 - [Opal Slim](https://github.com/jgaskins/opal-slim) - Sprockets integration to compile Slim templates for Opal apps
 - [Opal Starter Kit](https://github.com/fkchang/opal-starter-kit) - Create Opal projects easily
 - [Opal UI](https://github.com/ppibburr/opal-ui) - A GUI Toolkit in your Browser
-- [Opal Web Midi](https://github.com/fazibear/opal-web-midi) - Web MIDI for Opal.
 - [Opal aasm](https://github.com/catprintlabs/opal-aasm) - Opal compatible version of Acts As State Machine with React.rb awareness
 - [Rack Opal](https://github.com/t0xa/rack-opal) - Rack middleware to automatically compile ruby scripts to javascripts
 - [Reactive Record](https://github.com/catprintlabs/reactive-record) - Ruby Opal + React + ActiveRecord = GOODNESS!
 
 ### JS Wrappers (Bindings)
+- [Opal Airbrake](https://github.com/fazibear/opal-airbrake) - Opal wrapper for airbrake-js javascript library.
 - [Opal Dagred3](https://github.com/lonelyplanet/opal-dagred3) - An opalized (ruby-fied) wrapper for the dagreD3 directed, acyclic graphing library
 - [Opal Firebase](https://github.com/gabrielrios/opal-firebase) - Firebase Wrapper providing a nice ruby syntax
 - [Opal Highcharts](https://github.com/balmoral/opal-highcharts) - Ruby wrapper for Highcharts and Highstock javascript libraries
@@ -82,7 +80,9 @@
 - [Opal PunchDB](https://github.com/dodecaphonic/opal-pouchdb) - An Opal bridge to PouchDB
 - [Opal Pusher](https://github.com/jgaskins/opal-pusher) - Opal bindings for the Pusher JS API
 - [Opal Raphael](https://github.com/yhara/opal-raphael) - Opal binding for Raphael.js
+- [Opal Sid](https://github.com/fazibear/opal-sid) - Hermit jsSID wrapper for opal
 - [Opal VirtualDOM](https://github.com/fazibear/opal-virtual-dom) - virtual-dom wrapper for opal
+- [Opal Web Midi](https://github.com/fazibear/opal-web-midi) - Web MIDI wrapper for Opal.
 - [Reactrb](https://github.com/reactrb/reactrb) - Opal Ruby wrapper of React.js library.
 - [Stripe Opal](https://github.com/DataMelon/stripe-opal) - Stripe.JS wrapper for Opal
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
