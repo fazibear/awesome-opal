@@ -167,4 +167,4 @@
 
 ## Contribution
 
-Your contributions and suggestions are welcome ♡.
+Your [contributions](https://github.com/fazibear/awesome-opal/blob/master/README.md) and [suggestions](https://github.com/fazibear/awesome-opal/issues/new?title=suggestion:+) are welcome ♡.
