@@ -32,6 +32,7 @@
 - [Dare](https://github.com/domgetter/dare) - Ruby Web Game library on top of Opal
 - [Electron Opal](https://github.com/jannishuebl/electron_opal) - Lightweigt Ruby wrapper around the geat electron desktop application engine
 - [Grand Central](https://github.com/clearwater-rb/grand_central) - State-management and action-dispatching for Opal apps
+- [Hyalite](https://github.com/youchan/hyalite) - This is ruby virtual DOM implementation using opal. It is inspired by react.js.
 - [Jekyll Opal](https://github.com/jekyll/jekyll-opal) - Let Jekyll convert your Ruby into JavaScript using Opal
 - [Opal ActionCable](https://github.com/MichaelSp/opal-actioncable) - Opal wrapper for rails actioncable
 - [Opal ActionPack](https://github.com/boberetezeke/opal-actionpack) - A small port of the awesome action pack to Opal JS
