@@ -146,9 +146,9 @@
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
 ### Live Applications
-- [Asciify Me](https://inesita-asciify-me.netlify.com)
+- [Asciify Me](https://asciifyme.fazibear.me)
 - [Clearwater Blog](http://clearwater-blog.herokuapp.com)
-- [Inesid](http://inesid.surge.sh)
+- [Inesid](http://inesid.fazibear.me)
 - [Inesita DBMonster](http://inesita-dbmonster.netlify.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
 - [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
