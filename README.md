@@ -90,7 +90,7 @@
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
 
 ### Examples
-- [AsciifyMe](https://github.com/inesita-rb/asciify-me) - Convert webcam into asciiart. Live!
+- [AsciifyMe](https://github.com/fazibear/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
 - [Inesid](https://github.com/fazibear/inesid) - SID Web player with retor interface
