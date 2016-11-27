@@ -61,6 +61,7 @@
 - [Opal Scriptish](https://github.com/meh/opal-scriptish) - Scriptish support for Ruby scripting, with Opal.
 - [Opal Shimmer](https://github.com/jaredcwhite/opal-shimmer) - Shimmer is an application state and configuration management library built with Opal
 - [Opal Slim](https://github.com/jgaskins/opal-slim) - Sprockets integration to compile Slim templates for Opal apps
+- [Opal Sprockets](https://github.com/opal/opal-sprockets) - Integration with Sprockets
 - [Opal Starter Kit](https://github.com/fkchang/opal-starter-kit) - Create Opal projects easily
 - [Opal UI](https://github.com/ppibburr/opal-ui) - A GUI Toolkit in your Browser
 - [Opal aasm](https://github.com/catprintlabs/opal-aasm) - Opal compatible version of Acts As State Machine with React.rb awareness
@@ -164,7 +165,6 @@
 ### Deprecated
 - [Opal Node](https://github.com/opal/opal-node)
 - [Opal Spec](https://github.com/opal/opal-spec)
-- [Opal Sprockets](https://github.com/opal/opal-sprockets)
 
 ## Contribution
 
