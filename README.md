@@ -12,7 +12,6 @@
 ### Blogs
 - [Funkworks (tagged Opal)](http://funkworks.blogspot.com/search/label/opal) Software blog, articles tagged opal
 - [Mikamai (tagged Opal)](http://dev.mikamai.com/tagged/opal) Software blog, articles tagged opal
-- [DataMelon](http://datamelon.io/blog/) Software blog with many screencasts, strong Volt focus
 - [Opalist](http://www.opalist.co) Blog links on the bottom
 
 ### Video Presentations
