@@ -91,6 +91,7 @@
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
 
 ### Examples
+- [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - A JavaScript port of Asciidoctor produced by Opal
 - [AsciifyMe](https://github.com/fazibear/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
@@ -143,6 +144,8 @@
 - [Opal Console](https://github.com/edubkendo/OpalConsole) - A Chrome extension to compile and run Opal in the browser
 - [Opal Loader](https://github.com/zetachang/opalrb-loader) - Opal Ruby module loader for webpack
 - [Opal Meteor](https://github.com/marcandre/meteor-opal) - Ruby runtime and core library for Meteor
+- [Opal Node Runtime](https://github.com/mogztter/opal-node-runtime) - Opal runtime as a Node module
+- [Opal Node Compiler](https://github.com/mogztter/opal-node-compiler) - Opal compiler as a Node module
 - [Opal npm Wrapper](https://github.com/anthonny/opal-npm-wrapper) - Npm wrapper for Opal
 - [opal.tmbundle](https://github.com/opal/opal.tmbundle) - TextMate bundler for Opal Ruby
 
