@@ -24,6 +24,7 @@
 - [Hyperloop](http://ruby-hyperloop.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
 - [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
+- [Opal Ferro](https://github.com/easydatawarehousing/opal-ferro) - Create webapps object-oriented style. No HTML, just beautiful and simple Ruby code
 - [Opal Praha](https://github.com/unplugandplay/opal-praha) - An opal-vienna rewrite with Convention over Configuration in mind
 - [Vienna](https://github.com/opal/vienna) - Client-side MVC framework for Opal
 - [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your Ruby runs on both server and client
@@ -138,6 +139,7 @@
 ### Other
 - [Dyndoc Opal](https://github.com/rcqls/dyndoc-opal) - dyndoc js via opal
 - [Ember Cli Opalrb](https://github.com/mfeckie/ember-cli-opal-rb) - Include Opal.rb in your Ember projects
+- [Ferro](https://easydatawarehousing.github.io/ferro/) - Demonstration of the abilities and use of the opal-ferro framework
 - [Gulp Opal](https://github.com/akasata/gulp-opal) - A gulp plugin convert Ruby to Javascript(by Opal)
 - [Meteor Opal](https://github.com/mikamai/meteor-opal) - Meteor support for Opal, the Ruby to Javascript Compiler
 - [Opal Benchmarks](https://github.com/ryanstout/opal_benchmarks) - A quick, totally inaccurate set of simple benchmarks for opal
@@ -162,6 +164,7 @@
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
 - [Sprint Poker](http://sprintpoker-inesita.surge.sh)
+- [TryRuby](https://easydatawarehousing.github.io/TryRuby/)
 - [WebAudio Playgrond](http://inesita-web-audio.netlify.com)
 - [Zupfnoter](https://zupfnoter.weichel21.de)
 
