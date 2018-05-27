@@ -35,6 +35,7 @@
 - [Grand Central](https://github.com/clearwater-rb/grand_central) - State-management and action-dispatching for Opal apps
 - [Hyalite](https://github.com/youchan/hyalite) - This is ruby virtual DOM implementation using opal. It is inspired by react.js.
 - [Jekyll Opal](https://github.com/jekyll/jekyll-opal) - Let Jekyll convert your Ruby into JavaScript using Opal
+- [Negasonic](https://github.com/merongivian/negasonic) - Music live coding in the browser, powered by Tone.rb
 - [Opal ActionCable](https://github.com/MichaelSp/opal-actioncable) - Opal wrapper for rails actioncable
 - [Opal ActionPack](https://github.com/boberetezeke/opal-actionpack) - A small port of the awesome action pack to Opal JS
 - [Opal ActiveRecord](https://github.com/boberetezeke/opal-activerecord) - An basic implementation of rails active record for use with opaljs
@@ -90,6 +91,7 @@
 - [Reactrb](https://github.com/reactrb/reactrb) - Opal Ruby wrapper of React.js library.
 - [Stripe Opal](https://github.com/DataMelon/stripe-opal) - Stripe.JS wrapper for Opal
 - [Three.rb](https://github.com/orbitalimpact/three.rb) - An Opal wrapper for Three.js to develop 3D browser applications in Ruby!
+- [Tone.rb](https://github.com/merongivian/tone.rb) - Ruby wrapper for Tone.js
 
 ### Examples
 - [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - A JavaScript port of Asciidoctor produced by Opal
@@ -100,6 +102,7 @@
 - [Inesita DBMonster](https://github.com/inesita-rb/dbmonster) - DBMonster test app written in Inesita
 - [Inesita Playground](https://github.com/inesita-rb/playground) - Playground for Inesita
 - [Inesita TodoMVC](https://github.com/inesita-rb/todomvc) - Inesita TodoMVC
+- [Negasonic Editor](https://github.com/merongivian/negasonic_editor) - Online editor for Negasonic, music live coding in the browser
 - [Opal Blog](https://github.com/jgaskins/opal_blog) - An example of using the Clearwater framework with Opal/Rails
 - [Opal Canvas Demo](https://github.com/danxexe/opal-canvas-demo) - Crappy canvas experiment using Opal.
 - [Opal Cats](https://github.com/bbonamin/opal-cats) - Get some cat pictures, with Opal
@@ -158,6 +161,7 @@
 - [Inesita DBMonster](http://inesita-dbmonster.netlify.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
 - [Inesita TodoMVC](http://inesita-todomvc.netlify.com)
+- [Negasonic Editor](https://negasonic.herokuapp.com/)
 - [Opal Canvas Demo](http://opal-canvas-demo.herokuapp.com)
 - [Opal IRB Embedded](http://fkchang.github.io/opal-irb/index-embeddable.html)
 - [Opal IRB Standalone](http://fkchang.github.io/opal-irb/index-jq.html)
