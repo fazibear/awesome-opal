@@ -126,7 +126,7 @@
 - [Opal TODOS](https://github.com/JikkuJose/opal-todo) - Simple static todo app using OpalRb
 - [Opal TODOS](https://github.com/opal/opal-todos) - todomvc based opal example
 - [Opal Tic Tac Toe](https://github.com/loicboutet/opal-tictactoe) - A very simple port of TodoMVC
-- [Opal on Abgularities](https://github.com/OpalOnAngularities/opal_on_angularities) - Write AngularJS app in Ruby using Opal.
+- [Opal on Angularities](https://github.com/OpalOnAngularities/opal_on_angularities) - Write AngularJS app in Ruby using Opal.
 - [Opal try](https://github.com/iamninja/opal-try)
 - [Opal with slim sass sprockets](https://github.com/fazibear/opal-slim-sass-sprockets-example) - Opal environment with sprockets, slim, sass, and rails-assets.
 - [Opalrb Example](https://github.com/markbates/opal-rb-example) - A "todo" example using the Opal.rb Project.
