@@ -168,7 +168,7 @@
 - [Opal Playground](http://fkchang.github.io/opal-playground/)
 - [Pong in Opal](https://opalpong.herokuapp.com)
 - [Sprint Poker](http://sprintpoker-inesita.surge.sh)
-- [TryRuby](https://easydatawarehousing.github.io/TryRuby/)
+- [TryRuby](https://ruby.github.io/TryRuby)
 - [WebAudio Playgrond](http://inesita-web-audio.netlify.com)
 - [Zupfnoter](https://zupfnoter.weichel21.de)
 
