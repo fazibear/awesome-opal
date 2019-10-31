@@ -108,6 +108,7 @@
 - [Opal Cats](https://github.com/bbonamin/opal-cats) - Get some cat pictures, with Opal
 - [Opal Conway](https://github.com/stevenandrewcarter/opal_conway) - Conway Game of Life, implemented with Opal and Ruby
 - [Opal Examples](https://github.com/Alliants/opal-examples) - Experiments with html5 and the opal ruby to javascript compiler
+- [Opal Node server with Express.js and Socket.io Demo Chat App](https://github.com/sebyx07/opal-express-socketio) - Project which uses Opal (Ruby) with a Node.js server, Express and Socket.io to build a real time chat
 - [Opal HelloWorld](https://github.com/JikkuJose/opal-hello-world) - A simple project to test OpalRb
 - [Opal IRB](https://github.com/fkchang/opal-irb) - IRB (interactive ruby) for Opal
 - [Opal Learning WebGL](https://github.com/aost/opal-learningwebgl) - Opal (Ruby) port of the Learning WebGL (NeHe) demos
