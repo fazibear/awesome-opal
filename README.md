@@ -145,7 +145,7 @@
 - [Dyndoc Opal](https://github.com/rcqls/dyndoc-opal) - dyndoc js via opal
 - [Ember Cli Opalrb](https://github.com/mfeckie/ember-cli-opal-rb) - Include Opal.rb in your Ember projects
 - [Ferro](https://easydatawarehousing.github.io/ferro/) - Demonstration of the abilities and use of the opal-ferro framework
-- [Gulp Opal](https://github.com/akasata/gulp-opal) - A gulp plugin convert Ruby to Javascript(by Opal)
+- [Gulp Opal](https://github.com/akasata/gulp-opal) - A gulp plugin to convert Ruby to Javascript (by Opal)
 - [Meteor Opal](https://github.com/mikamai/meteor-opal) - Meteor support for Opal, the Ruby to Javascript Compiler
 - [Opal Benchmarks](https://github.com/ryanstout/opal_benchmarks) - A quick, totally inaccurate set of simple benchmarks for opal
 - [Opal Console](https://github.com/edubkendo/OpalConsole) - A Chrome extension to compile and run Opal in the browser
