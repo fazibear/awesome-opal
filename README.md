@@ -26,6 +26,7 @@
 - [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
 - [Opal Ferro](https://github.com/easydatawarehousing/opal-ferro) - Create webapps object-oriented style. No HTML, just beautiful and simple Ruby code
 - [Opal Praha](https://github.com/unplugandplay/opal-praha) - An opal-vienna rewrite with Convention over Configuration in mind
+- [Snabberb](https://github.com/tobymao/snabberb) - A minimalistic reactive frontend web framework written in Ruby / Opal and based on Snabbdom.
 - [Vienna](https://github.com/opal/vienna) - Client-side MVC framework for Opal
 - [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your Ruby runs on both server and client
 
