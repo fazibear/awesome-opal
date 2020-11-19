@@ -21,6 +21,7 @@
 
 ### Frameworks
 - [Clearwater](https://github.com/clearwater-rb/clearwater) - Component-based Ruby front-end framework
+- [Glimmer DSL for Opal](https://github.com/AndyObtiva/glimmer-dsl-opal) - Auto-Webifier of [Glimmer](https://github.com/AndyObtiva/glimmer) GUI desktop apps via Rails/Opal without changing a line of pure Ruby code.
 - [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
 - [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
@@ -99,6 +100,7 @@
 - [AsciifyMe](https://github.com/fazibear/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
+- [Glimmer Calculator](https://github.com/AndyObtiva/glimmer-cs-calculator) - A fully functional calculator with keyboard shortcuts and multiple themes, running via Opal on Rails.
 - [Inesid](https://github.com/fazibear/inesid) - SID Web player with retor interface
 - [Inesita DBMonster](https://github.com/inesita-rb/dbmonster) - DBMonster test app written in Inesita
 - [Inesita Playground](https://github.com/inesita-rb/playground) - Playground for Inesita
@@ -160,6 +162,7 @@
 - [18xx.games](https://18xx.games)
 - [Asciify Me](https://asciifyme.fazibear.me)
 - [Clearwater Blog](http://clearwater-blog.herokuapp.com)
+- [Glimmer Calculator](https://glimmer-cs-calculator-server.herokuapp.com) ([Apple Theme](https://glimmer-cs-calculator-server.herokuapp.com/welcomes/apple) / [Tiles Theme](https://glimmer-cs-calculator-server.herokuapp.com/welcomes/tiles))
 - [Inesid](http://inesid.fazibear.me)
 - [Inesita DBMonster](http://inesita-dbmonster.netlify.com)
 - [Inesita Playground](http://inesita-playground.netlify.com)
