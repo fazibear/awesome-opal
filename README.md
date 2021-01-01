@@ -21,7 +21,7 @@
 
 ### Frameworks
 - [Clearwater](https://github.com/clearwater-rb/clearwater) - Component-based Ruby front-end framework
-- [Glimmer DSL for Opal](https://github.com/AndyObtiva/glimmer-dsl-opal) - Auto-Webifier of [Glimmer](https://github.com/AndyObtiva/glimmer) GUI desktop apps via Rails/Opal without changing a line of pure Ruby code.
+- [Glimmer DSL for Opal](https://github.com/AndyObtiva/glimmer-dsl-opal) - Pure-Ruby Web GUI and Auto-Webifier of [Glimmer](https://github.com/AndyObtiva/glimmer) Desktop Apps
 - [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 - [Inesita](https://github.com/inesita-rb/inesita) - Frontend web application framework in Ruby using Opal.
 - [Lissio](https://github.com/meh/lissio) - lissio is a VCL (Vai Col Lissio) framework for Opal to implement frontends completely on the client side.
@@ -71,6 +71,7 @@
 - [Opal aasm](https://github.com/catprintlabs/opal-aasm) - Opal compatible version of Acts As State Machine with React.rb awareness
 - [Rack Opal](https://github.com/t0xa/rack-opal) - Rack middleware to automatically compile ruby scripts to javascripts
 - [Reactive Record](https://github.com/catprintlabs/reactive-record) - Ruby Opal + React + ActiveRecord = GOODNESS!
+- [YASL](https://github.com/AndyObtiva/yasl) - A pure Ruby serialization library alternative to YAML that works in Opal inside web browsers
 
 ### JS Wrappers (Bindings)
 - [Opal Airbrake](https://github.com/fazibear/opal-airbrake) - Opal wrapper for airbrake-js javascript library.
@@ -100,7 +101,7 @@
 - [AsciifyMe](https://github.com/fazibear/asciify-me) - Convert webcam into asciiart. Live!
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
-- [Glimmer Calculator](https://github.com/AndyObtiva/glimmer-cs-calculator) - A fully functional calculator with keyboard shortcuts and multiple themes, running via Opal on Rails.
+- [Glimmer Calculator](https://github.com/AndyObtiva/glimmer-cs-calculator) - A fully functional calculator with keyboard shortcuts and multiple themes built in [Glimmer](https://github.com/AndyObtiva/glimmer-dsl-opal)
 - [Inesid](https://github.com/fazibear/inesid) - SID Web player with retor interface
 - [Inesita DBMonster](https://github.com/inesita-rb/dbmonster) - DBMonster test app written in Inesita
 - [Inesita Playground](https://github.com/inesita-rb/playground) - Playground for Inesita
