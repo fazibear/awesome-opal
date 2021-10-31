@@ -68,6 +68,7 @@
 - [Opal Sprockets](https://github.com/opal/opal-sprockets) - Integration with Sprockets
 - [Opal Starter Kit](https://github.com/fkchang/opal-starter-kit) - Create Opal projects easily
 - [Opal UI](https://github.com/ppibburr/opal-ui) - A GUI Toolkit in your Browser
+- [Opal Zeitwerk](https://github.com/isomorfeus/opal-zeitwerk) - Reduce TTI (Time To Interactive) for large Opal Applications by autoloading classes and modules
 - [Opal aasm](https://github.com/catprintlabs/opal-aasm) - Opal compatible version of Acts As State Machine with React.rb awareness
 - [Rack Opal](https://github.com/t0xa/rack-opal) - Rack middleware to automatically compile ruby scripts to javascripts
 - [Reactive Record](https://github.com/catprintlabs/reactive-record) - Ruby Opal + React + ActiveRecord = GOODNESS!
