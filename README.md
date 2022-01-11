@@ -10,6 +10,7 @@
 - [Google Opal Group](https://groups.google.com/forum/#!forum/opalrb)
 
 ### Blogs
+- [Code Master (tagged Opal)](https://andymaleh.blogspot.com/search/label/Opal) Software Engineering Blog about Ruby, Rails, Opal, JRuby, and Java
 - [Funkworks (tagged Opal)](http://funkworks.blogspot.com/search/label/opal) Software blog, articles tagged opal
 - [Mikamai (tagged Opal)](http://dev.mikamai.com/tagged/opal) Software blog, articles tagged opal
 - [Opalist](http://www.opalist.co) Blog links on the bottom
