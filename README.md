@@ -78,6 +78,7 @@
 - [Opal Dagred3](https://github.com/lonelyplanet/opal-dagred3) - An opalized (ruby-fied) wrapper for the dagreD3 directed, acyclic graphing library
 - [Opal Firebase](https://github.com/gabrielrios/opal-firebase) - Firebase Wrapper providing a nice ruby syntax
 - [Opal Highcharts](https://github.com/balmoral/opal-highcharts) - Ruby wrapper for Highcharts and Highstock javascript libraries
+- [Opal I18next](https://github.com/LarryNorth/opal-i18next) - Ruby wrapper for the i18next javascript library
 - [Opal JQuery](https://github.com/opal/opal-jquery) - jQuery for Opal
 - [Opal Knockout](https://github.com/patorash/opal-knockout) - opal-knockout is wrapper of knockout.js for Ruby(Opal)
 - [Opal Phaser](https://github.com/orbitalimpact/opal-phaser) - A fast and free Opal wrapper for the Phaser framework to develop browser-based games in Ruby!
