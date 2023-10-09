@@ -10,6 +10,7 @@
 - [Google Opal Group](https://groups.google.com/forum/#!forum/opalrb)
 
 ### Blogs
+- [Code Master (tagged Opal)](https://andymaleh.blogspot.com/search/label/Opal) Software Engineering Blog about Ruby, Rails, Opal, JRuby, and Java
 - [Funkworks (tagged Opal)](http://funkworks.blogspot.com/search/label/opal) Software blog, articles tagged opal
 - [Mikamai (tagged Opal)](http://dev.mikamai.com/tagged/opal) Software blog, articles tagged opal
 - [Opalist](http://www.opalist.co) Blog links on the bottom
@@ -100,6 +101,7 @@
 ### Examples
 - [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - A JavaScript port of Asciidoctor produced by Opal
 - [AsciifyMe](https://github.com/fazibear/asciify-me) - Convert webcam into asciiart. Live!
+- [Baseball Cards](https://github.com/AndyObtiva/baseball_cards) - Animated Baseball Cards using Opal on Rails 7
 - [Calculator](https://github.com/boberetezeke/calculator) - A HTML5 shared calculator app using ruby Opal
 - [Codemotion](https://github.com/elia/codemotion) - Ruby-everywhere chat app (rack/websockets/opal)
 - [Glimmer Calculator](https://github.com/AndyObtiva/glimmer-cs-calculator) - A fully functional calculator with keyboard shortcuts and multiple themes built in [Glimmer](https://github.com/AndyObtiva/glimmer-dsl-opal)
@@ -163,6 +165,7 @@
 ### Live Applications
 - [18xx.games](https://18xx.games)
 - [Asciify Me](https://asciifyme.fazibear.me)
+- [Baseball Cards](http://animated-baseball-cards.herokuapp.com)
 - [Clearwater Blog](http://clearwater-blog.herokuapp.com)
 - [Glimmer Calculator](https://glimmer-cs-calculator-server.herokuapp.com) ([Apple Theme](https://glimmer-cs-calculator-server.herokuapp.com/welcomes/apple) / [Tiles Theme](https://glimmer-cs-calculator-server.herokuapp.com/welcomes/tiles))
 - [Inesid](http://inesid.fazibear.me)
